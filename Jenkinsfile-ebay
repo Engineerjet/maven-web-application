@@ -1,5 +1,5 @@
 node {
-  def mavenHome = tool name: 'maven3.8.6'
+  def mavenHome = tool name: 'maven3.8.2'
   stage('1-Clone') {
      git credentialsId: 'githubCredentials', url: 'https://github.com/Engineerjet/maven-web-application'
   }

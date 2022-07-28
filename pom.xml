@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.26.200/content/repositories/2012</url>
+	      <url>http://172.31.26.200:2012/content/repositories/2012</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
